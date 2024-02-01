@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Job Portal",
+      "imageSrc": "projects/project1.png",
+      "description": "Build a job-portal using react and firebase where people can search for jobs which match their skills, and recruiters can post job openings",
+      "skills": ["React", "Tailwind CSS","Firebase"],
+      "demo": "https://657536d65345c15a7084398b--profound-alpaca-3582df.netlify.app/",
+      "source": "https://github.com/Shibang-DS/Job-Portal"
+    },
+    {
+      "title": "Face2Face",
+      "imageSrc": "projects/project2.png",
+      "description": "Developed Real-Time Video streaming and chatting Web Application using WebRTC and AgoraSDK facilitating live video interaction",
+      "skills": ["Vanilla Javascript", "AgoraSDK", "WebRTC"],
+      "demo": "https://6514772afc953b30dae72d7c--splendorous-druid-b96a91.netlify.app/lobby.html",
+      "source": "https://github.com/Shibang-DS/Face2Face-Live-Video-Calling-and-chatting"
+    },
+    {
+      "title": "Stock Prices",
+      "imageSrc": "projects/project3.png",
+      "description": "This is a project made to use the web to extract the real time value of stocks using web-scraping and with help of libraries such as Beautiful Soup",
+      "skills": ["Web Scraping", "Python", "Beautiful Soup"],
+      "demo": "https://github.com/Shibang-DS/Web-Scraping-for-Stock-Prices",
+      "source": "https://github.com/Shibang-DS/Web-Scraping-for-Stock-Prices"
+    }
+  ]

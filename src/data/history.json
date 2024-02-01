@@ -1,0 +1,15 @@
+[
+    {
+      "role": "Web Development Intern",
+      "organisation": "NeuroNexus Innovations",
+      "startDate": "Nov, 2023",
+      "endDate": "Dec, 2023",
+      "experiences": [
+        "Created landing pages",
+        "Helped create UI components",
+        "Worked on component library",
+        "Worked with Industry level APIs"
+      ],
+      "imageSrc": "history/netflix.jpeg"
+    }
+  ]
